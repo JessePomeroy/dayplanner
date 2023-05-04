@@ -31,4 +31,4 @@ https://github.com/JessePomeroy/dayplanner
 
 https://jessepomeroy.github.io/dayplanner/
 
-![Screenshots](https://
+![Screenshots](https://github.com/JessePomeroy/dayplanner/blob/main/assets/scrot/dayplannerscrot.PNG)
